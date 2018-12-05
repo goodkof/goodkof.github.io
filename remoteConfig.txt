@@ -1,0 +1,5 @@
+{
+    "verConfig" : 1,
+    "updateTime" : 201812051208,
+    "OpenShareRevive": 0
+}
