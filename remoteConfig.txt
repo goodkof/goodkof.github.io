@@ -1,5 +1,0 @@
-{
-    "verConfig" : 1,
-    "updateTime" : "2018年12月05日13:55",
-    "OpenShareRevive": 0
-}
